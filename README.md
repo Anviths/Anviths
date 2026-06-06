@@ -133,8 +133,8 @@ Real Estate Portal with Property Listings, Search, Booking, and User Management.
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/your-profile
-- Email: your-email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anvith-s/
+- Email: anwithgowda725@gmail.com
 
 ---
 
